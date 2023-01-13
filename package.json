@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "figlet": "^1.2.4",
-    "terminal-kit": "^1.32.2"
+    "terminal-kit": "^2.1.8"
   }
 }
